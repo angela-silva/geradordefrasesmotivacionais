@@ -10,6 +10,12 @@ Perfeito para treinar **DOM manipulation**, **eventos em JavaScript** e **estili
 
 ---
 
+## Demonstração
+
+[Veja ao vivo](https://angela-silva.github.io/geradordefrasesmotivacionais/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Exibe frases motivacionais aleatórias ao clicar em um botão.
