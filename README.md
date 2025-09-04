@@ -1,9 +1,9 @@
-# Gerador Motivacional
+## Gerador Motivacional
 Gere uma nova frase motivacional ao clicar no botão "nova frase".
 
 <img width="1024" height="720" alt="Gerador de Frases Motivacionais - Google Chrome 01_09_2025 13_01_56" src="https://github.com/user-attachments/assets/fe4f7cc9-bf49-47a9-9cfe-5714a7c84af4" />
 
-# 🌸 Gerador de Frases Motivacionais 🌸
+## 🌸 Gerador de Frases Motivacionais 🌸
 
 Um projeto simples e encantador desenvolvido com **HTML, CSS e JavaScript**, que gera frases motivacionais aleatórias para deixar o seu dia mais leve e inspirador.  
 Perfeito para treinar **DOM manipulation**, **eventos em JavaScript** e **estilização com gradientes** no CSS.  
