@@ -14,7 +14,7 @@ Perfeito para treinar **DOM manipulation**, **eventos em JavaScript** e **estili
 
 Clique no botão e receba sua dose de inspiração! 🌸
 
-[Veja ao vivo](https://angela-silva.github.io/gerador_motivacional/)
+[Veja ao vivo](https://angela-rocha.github.io/gerador_motivacional/)
 
 ---
 
