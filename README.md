@@ -36,4 +36,7 @@ Clique no botão e receba sua dose de inspiração! 🌸
 ---
 
 ## 👩‍💻 Autora
-Feito com muito carinho por Angela Rocha ❤️
+
+Feito com muito carinho por **Angela Rocha** ❤️  
+🔗 [Meu GitHub](https://github.com/angela-silva)  
+📧 Contato: angela.devfrontend@gemail.com  
