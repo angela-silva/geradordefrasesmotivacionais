@@ -1,5 +1,5 @@
 ## Gerador Motivacional
-Gere uma nova frase motivacional ao clicar no botão "nova frase".
+Gere uma frase motivacional ao clicar no botão "nova frase".
 
 <img width="1024" height="720" alt="Gerador de Frases Motivacionais - Google Chrome 01_09_2025 13_01_56" src="https://github.com/user-attachments/assets/fe4f7cc9-bf49-47a9-9cfe-5714a7c84af4" />
 
